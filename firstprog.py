@@ -1,0 +1,1 @@
+print ("I feel like instead of retaining knowledge I just relearn how to code every couple of years")
